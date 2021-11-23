@@ -1,0 +1,6 @@
+[submodule "worm_core"]
+	path = worm_core
+	url = https://github.com/frankiebaffa/worm_core
+[submodule "worm_derive"]
+	path = worm_derive
+	url = https://github.com/frankiebaffa/worm_derive
