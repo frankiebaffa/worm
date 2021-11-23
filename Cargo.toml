@@ -9,5 +9,5 @@ derive = []
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-worm_core = { path = "./worm_core" }
-worm_derive = { path = "./worm_derive" }
+worm_core = { git = "https://github.com/frankiebaffa/worm_core", branch = "master" }
+worm_derive = { git = "https://github.com/frankiebaffa/worm_derive", branch = "master" }
