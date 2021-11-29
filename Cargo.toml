@@ -10,4 +10,4 @@ derive = []
 
 [dependencies]
 worm_core = { git = "https://github.com/frankiebaffa/worm_core", branch = "master" }
-worm_derive = { git = "https://github.com/frankiebaffa/worm_derive", branch = "add_utc_now" }
+worm_derive = { git = "https://github.com/frankiebaffa/worm_derive", branch = "master" }
