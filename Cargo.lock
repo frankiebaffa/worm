@@ -338,7 +338,7 @@ dependencies = [
 [[package]]
 name = "worm_derive"
 version = "0.1.1"
-source = "git+https://github.com/frankiebaffa/worm_derive?branch=master#b9d754f682607d884fd61aa305bb768f1cfe08bd"
+source = "git+https://github.com/frankiebaffa/worm_derive?branch=master#2bfc49c806ef2a9e0a0bb85d95929aa7f828727c"
 dependencies = [
  "darling",
  "dotenv",
